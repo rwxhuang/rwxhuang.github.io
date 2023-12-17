@@ -81,20 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Roderick Huang"
-  avatar           : "profile.png"
-  bio              : "MIT Student studying Computer Science and Engineering (6-3) and Mathematics (18)"
+  avatar           : "IMG_5063.jpg"
+  bio              : "MIT B.S. '24 / MEng '25"
   location         : "Cambridge, MA"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "rwxhuang@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "roderick.huang"
   foursquare       :
   github           : "rwxhuang"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        : "rwxhuang"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rwxhuang/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "rwxhuang"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
