@@ -2,10 +2,7 @@
 main:
   - title: "CV"
     url: /files/Huang_Roderick_Resume_121723.pdf
-
-  - title: "Projects"
-    url: /projects/    
-
+  
   - title: "Swimming"
     url: /swimming/    
     
