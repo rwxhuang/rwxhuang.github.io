@@ -1,15 +1,22 @@
 ---
 permalink: /
-title: "Hello there, I'm Roderick!"
+title: "Roderick W.X. Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm an MIT undergraduate studying [Computer Science and Engineering](https://www.eecs.mit.edu/research/computer-science/) (6-3) and [Mathematics](https://math.mit.edu/academics/undergrad/index.html) (18) graduating in May 2024. Afterwards, I will be enrolling in MIT's [MEng program](https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/) and graduating in May 2025.
+I'm an MIT undergraduate studying [Computer Science and Engineering](https://www.eecs.mit.edu/research/computer-science/) (6-3) and [Mathematics](https://math.mit.edu/academics/undergrad/index.html) (18) graduating in May 2024. Afterwards, I will be enrolling in MIT's [MEng program](https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/) and graduating in May 2025. My research is focused on statistical data analysis and machine learning techniques, from both a theoretical and empirical perspective.
 
-This website will have continual updates.
+I'm also an executive member of [Traders@MIT](https://traders.mit.edu/#about) and was a teaching assistant for MIT's 6.1200 Mathematics for Computer Science (Fall 2023). Outside of school, I'm part of MIT's varsity swim team.
+
+Below, you can can find brief descriptions of my projects and research. 
+
+# Projects
+------
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
