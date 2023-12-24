@@ -26,7 +26,8 @@ From movies to video games, sound plays a crucial role in our perception of the 
 
 ## Research
 
-*in progress*
+### Empirical Bayes using Deep Neural Networks: g-modeling vs f-modeling
+Researched empirical Bayes estimation via two main modeling strategies (g-modeling and f-modeling), and developing methodology to implement the above strategies using deep neural networks. Presented on Glow, a normalizing flow-based generative model with invertible 1x1 convolutions. [[**Presentation**]](/files/glow_presentation.pdf)
 
 
 
