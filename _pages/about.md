@@ -7,27 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an MIT undergraduate studying [Computer Science and Engineering](https://www.eecs.mit.edu/research/computer-science/) (6-3) and [Mathematics](https://math.mit.edu/academics/undergrad/index.html) (18) graduating in May 2024. Afterwards, I will be enrolling in MIT's [MEng program](https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/) and graduating in May 2025. My research is focused on statistical data analysis and machine learning techniques, from both a theoretical and empirical perspective.
+I'm an MIT EECS MEng student researching portfolio construction in the application of space technologies under [Afreen Siddiqi](https://systems.mit.edu/team/afreen-siddiqi/) and [Olivier de Weck](https://aeroastro.mit.edu/people/olivier-de-weck/). During my undergrad at MIT, I studied [Computer Science and Engineering](https://www.eecs.mit.edu/research/computer-science/) (6-3) and [Mathematics](https://math.mit.edu/academics/undergrad/index.html) (18).
 
-I'm also an executive member of [Traders@MIT](https://traders.mit.edu/#about) and was a teaching assistant for MIT's 6.1200 Mathematics for Computer Science (Fall 2023). Outside of school, I'm part of MIT's varsity swim team.
-
-Below, you can can find brief descriptions of my projects and research. 
-
-## Projects
-
-### LSTM vs Transformers for Time Series Modeling
-![Example graph of LSTM vs Transformers](/images/lstm_transformer_ex_graph.png)
-A comparison analysis between LSTM and Transformer models in the context of time-series forecasting. While LSTMs have long been a cornerstone, the advent of Transformers has sparked significant interest due to their attention mechanisms. In this study, we pinpoint which particular features of time series datasets could lead transformer-based models to outperform LSTM models. [[**Blog**]](https://deep-learning-mit.github.io/staging/blog/2023/time-series-lstm-transformer/)
-[[**Code**]](https://github.com/rwxhuang/lstm_vs_transformers)
-
-### Predicting Volume from Silent Videos
-![Architecture Diagram](/images/architecture_diagram.png)
-From movies to video games, sound plays a crucial role in our perception of the world. In this project, we aim to predict the volume of visually indicated sounds (VIS) from silent video scenes. We present a model involving a recurrent-neural network composed of a CNN and an LSTM, trained on an existing drumsticks dataset and a novel impacts dataset of our making. We find that our model generally predicts the occurrences of auditory inflection points in video correctly, but needs further improvement in estimating the volume of the inflection points accurately. [[**Paper**]](/files/comp_vision_final_project.pdf)
-
-## Research
-
-### Empirical Bayes using Deep Neural Networks: g-modeling vs f-modeling
-Researched empirical Bayes estimation via two main modeling strategies (g-modeling and f-modeling), and developing methodology to implement the above strategies using deep neural networks. Presented on Glow, a normalizing flow-based generative model with invertible 1x1 convolutions. [[**Presentation**]](/files/glow_presentation.pdf)
+I'm also an executive member of [Traders@MIT](https://traders.mit.edu/#about) and take part in MIT's varsity swim team.
 
 
 
