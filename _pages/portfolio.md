@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-Here are a complation of my projects and research from high school.
+Here are a complation of my projects and research from high school and college.
 ## Research
 ---
 ### 🛰️ Quantitative Portfolio Management for NASA

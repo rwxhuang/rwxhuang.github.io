@@ -11,7 +11,7 @@ author_profile: true
 Here's a cool photo of me swimming:
 ![image](/images/swim.png)
 
-📹 Here's a cool video of me swimming that happens to be on YouTube: [**Men’s 400m IM B Final, 2019 TYR Pro Swim Series – Des Moines**](https://www.youtube.com/watch?v=mPtpQEnO9wg)
+📹 Here's a cool video of me swimming that on YouTube: [**Men’s 400m IM B Final, 2019 TYR Pro Swim Series – Des Moines**](https://www.youtube.com/watch?v=mPtpQEnO9wg)
 
 📰 Here's a cool Swimswam article about me: [**Sophomore Roderick Huang of MIT Wins Elite 90 Award for D3 Men's Swimming and Diving**](https://swimswam.com/sophomore-roderick-huang-of-mit-wins-elite-90-award-for-d3-mens-swimming-and-diving/)
 
