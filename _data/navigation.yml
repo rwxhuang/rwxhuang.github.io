@@ -1,13 +1,12 @@
 # main links links
 main:
+  - title: "Portfolio"
+      url: /portfolio/
+  - title: "Swimming"
+    url: /swimming/  
   - title: "Resume"
     url: /files/Huang_Roderick_Resume_08132024.pdf
-  
-  - title: "Swimming"
-    url: /swimming/    
     
-  - title: "Portfolio"
-    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
