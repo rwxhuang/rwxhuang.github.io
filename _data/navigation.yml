@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Portfolio"
-      url: /portfolio/
+    url: /portfolio/
       
   - title: "Swimming"
     url: /swimming/  
 
   - title: "Resume"
-    url: /files/Huang_Roderick_Resume_08132024.pdf
+    url: /files/Huang_Roderick_Resume_03112025.pdf
     
         
   # - title: "Blog Posts"
