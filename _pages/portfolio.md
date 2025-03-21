@@ -8,16 +8,14 @@ Here are a complation of my projects and research from high school and college.
 ## Research
 ---
 ### 🛰️ Quantitative Portfolio Management for NASA
-*Sep 2022-* \
-Continuation of undergraduate research to MEng thesis in Markowitz Portfolio Theory (MPT). Leveraging data science techniques to determine technology investments for NASA earth observation missions. Strategizing initiatives to automate dynamic portfolio allocation for 10-20 year-long technology projects by
-utilizing optimization techniques within reinforcement learning frameworks. 
+*Sep 2022-May 2025* \
+Continuation of undergraduate research to MEng thesis in Modern Portfolio Theory (MPT). Leveraging data science techniques to determine investments for technology projects. Strategizing initiatives to automate dynamic portfolio allocation for 10-20 year-long technology projects by improving upon MPT methodology and incorporating reinforcement learning frameworks. 
 [[**Code**]](https://github.com/rwxhuang/astra-mpt-dashboard) [[**Website**]](https://mit-astra.streamlit.app/)
 
 ### 🖨 CSAIL "Invisible" Ink Computer Vision Research
-*Sep 2023 -* \
-Assisted the development of hybrid paper documents for interactive digital media by leveraging AR techniques and computer vision models, resulting in 80\%+ accuracy in detecting "invisible" QR codes. \
-[[**Lab**]](https://hcie.csail.mit.edu/)
-*Note: paper in progress*
+*Sep 2023 - Dec 2025* \
+Assisted the development of hybrid paper documents for interactive digital media by leveraging AR techniques and computer vision models, resulting in 80%+ accuracy in detecting "invisible" QR codes; paper published/presented at CHI 2025. \
+[[**Lab**]](https://hcie.csail.mit.edu/) [[**Paper**]](https://arxiv.org/abs/2502.17089)
 
 ### 📈 Empirical Bayes using Deep Neural Networks: g-modeling vs f-modeling 
 *Sep 2021 - Mar 2022* \
@@ -45,4 +43,5 @@ From movies to video games, sound plays a crucial role in our perception of the 
 ### 🥗 NutritionChecker
 *Jul 2020* \
 Using OCR, we design an Android application to scan nutrition labels and determine the healthiness of a grocery shopping trip. \
+[[**Submission**]](https://devpost.com/software/nutritionchecker)
 [[**Code**]](https://github.com/rwxhuang/NutritionChecker)

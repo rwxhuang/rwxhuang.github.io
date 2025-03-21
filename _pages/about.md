@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an MIT EECS MEng student researching portfolio construction in the application of space technologies under [Afreen Siddiqi](https://systems.mit.edu/team/afreen-siddiqi/) and [Olivier de Weck](https://aeroastro.mit.edu/people/olivier-de-weck/). During my undergrad at MIT, I studied [Computer Science and Engineering](https://www.eecs.mit.edu/research/computer-science/) (6-3) and [Mathematics](https://math.mit.edu/academics/undergrad/index.html) (18).
+I'm an MIT EECS MEng student researching portfolio management in the application of technology projects under [Afreen Siddiqi](https://systems.mit.edu/team/afreen-siddiqi/) and [Olivier de Weck](https://aeroastro.mit.edu/people/olivier-de-weck/). During my undergrad at MIT, I studied [Computer Science and Engineering](https://www.eecs.mit.edu/research/computer-science/) (6-3) and [Mathematics](https://math.mit.edu/academics/undergrad/index.html) (18).
 
-I'm also an executive member of [Traders@MIT](https://traders.mit.edu/#about) and take part in MIT's varsity swim team.
+I'm also an executive member of [Traders@MIT](https://traders.mit.edu/#about) and take part in [MIT's varsity swim team]().
 
 
 
